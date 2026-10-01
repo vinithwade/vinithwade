@@ -1,4 +1,4 @@
-<p>Hi, I am Vinith</p>
+<p>Hi, I am VINITH</p>
 <p>Building with AI. Thinking in systems. Shipping real software I understand. 🚀</p>
 <img 
   src="./ifitworksdonttouchit-v0-i4vqy3xpju1g1.webp" 
