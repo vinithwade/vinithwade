@@ -3,5 +3,6 @@
 <img 
   src="./ifitworksdonttouchit-v0-i4vqy3xpju1g1.webp" 
   alt="If it works, don't touch it"
-  width="800"
+  width="100"
+  height="100"
 />
